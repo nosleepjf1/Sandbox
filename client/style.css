@@ -1,3 +1,26 @@
-p {
-    font-size: 59px;
+
+body{
+    /*background-image: url(images/google.png);*/
+}
+
+
+.firstFlex {
+    display: flex;
+}
+
+#firstP {
+    color: aqua;
+
+    flex-grow: 1;
+}
+
+#secondP {
+    color: greenyellow;
+
+    flex-grow: 1;
+}
+
+#thirdP {
+
+    flex-grow: 1;
 }
